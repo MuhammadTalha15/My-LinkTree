@@ -68,7 +68,8 @@
 .scl {
   height: 1.5vmax;
   width: 1.5vmax;
-  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
   background-position: center;
   filter: var(--icon-dark);
 }
