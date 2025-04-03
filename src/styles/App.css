@@ -11,7 +11,7 @@
 .mn {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(#3e3e3ecc, #3e3e3ecc),url(../assets/pexels-fauxels.webp);
+  background-image: linear-gradient(#3e3e3ecc, #2a2a2acc),url(../assets/pexels-fauxels.webp);
   /* background-image: url(../assets/Group.png); */
   background-size: cover;
   background-position: center;
@@ -28,6 +28,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
 
 .profile-pic-cnt {
   height: 11vmax;
